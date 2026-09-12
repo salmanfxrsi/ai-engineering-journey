@@ -13,7 +13,7 @@ print(age, type(age))
 
 height = float(input("Enter your height: "))
 height = height + 0.2
-print(height, type(height));
+print(height, type(height))
 
 
 
