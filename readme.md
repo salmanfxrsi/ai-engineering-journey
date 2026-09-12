@@ -8,7 +8,7 @@ This repository contains my learning notes, code implementations, practice, expe
 
 # 🐍 Introduction to Python For ML
 
-* [ ] Module 01 — Python Basics — 📅
+* [x] Module 01 — Python Basics — 📅 12 September 2026
 * [ ] Module 02 — Control Flow in Python — 📅
 * [ ] Module 03 — String and List — 📅
 * [ ] Module 04 — Practice Day — 📅
