@@ -11,7 +11,7 @@ This repository contains my learning notes, code implementations, practice, expe
 * [x] Module 01 — Python Basics — 📅 12 September 2026
 * [x] Module 02 — Control Flow in Python — 📅 12 September 2026
 * [x] Module 03 — String and List — 📅 14 September 2026
-* [ ] Module 04 — Practice Day — 📅
+* [x] Module 04 — Practice Day — 📅 14 September 2026
 * [ ] Module 05 — Tuples, Set and Dictionary — 📅
 * [ ] Module 06 — Intro to ML — 📅 
 
