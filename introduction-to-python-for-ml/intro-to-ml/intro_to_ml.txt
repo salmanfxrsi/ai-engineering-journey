@@ -1,0 +1,14 @@
+Machine Learning = Learn from previous data → find patterns → make decisions/predictions on new, unseen data
+
+
+Netflix Example
+
+Netflix collects data about your behavior:
+What you watch
+What you skip
+What genres you like
+How long you watch
+
+It finds patterns in your behavior and learns your taste
+Then, when a new movie/series comes, it uses those learned patterns to decide:
+“You will probably like this” → Recommendation
