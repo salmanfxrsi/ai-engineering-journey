@@ -20,19 +20,19 @@ This repository contains my learning notes, code implementations, practice, expe
 
 ### 🌱 Milestone 01 — Linear Equations & Derivatives
 
-* [ ] Module 01 — Linear Equation — 📅
-
-* [ ] Module 02 — Scalars and Vectors — 📅
+* [ ] Module 04 — Derivative from Scratch — 📅
 
 * [ ] Module 03 — Matrices — 📅
 
-* [ ] Module 04 — Derivative from Scratch — 📅
+* [ ] Module 02 — Scalars and Vectors — 📅
+
+* [ ] Module 01 — Linear Equation — 📅
 
 ---
 
 ## 🐍 Introduction to Python For ML
 
-* [ ] Module 06 — Intro to ML — 📅
+* [ ] Module 06 — Intro to ML — 📅 16 September 2026
 
 * [x] Module 05 — Tuples, Set and Dictionary — 📅 15 September 2026
 

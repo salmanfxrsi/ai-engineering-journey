@@ -1,0 +1,1 @@
+Data → Clean → Explore → Features → Split → Train → Evaluate → Tune → Deploy → Monitor

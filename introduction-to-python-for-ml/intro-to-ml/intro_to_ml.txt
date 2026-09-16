@@ -12,3 +12,4 @@ How long you watch
 It finds patterns in your behavior and learns your taste
 Then, when a new movie/series comes, it uses those learned patterns to decide:
 “You will probably like this” → Recommendation
+
