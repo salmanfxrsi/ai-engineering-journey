@@ -6,6 +6,17 @@ This repository contains my learning notes, code implementations, practice, expe
 
 ---
 
+## 🤖 Gemini AI & Streamlit Project
+
+### 📅 Week 1
+
+* [ ] Module 04 — Practice Day 02 — Pending
+* [ ] Module 03 — Gemini AI Multimodal Assistant — Pending
+* [ ] Module 02 — Practice Day 01 — Pending
+* [ ] Module 01 — Streamlit & Gemini API — Pending
+
+---
+
 ## 🐍 AI Programming With Python
 
 ### 📅 Week 1
@@ -15,7 +26,7 @@ This repository contains my learning notes, code implementations, practice, expe
 * [ ] Module 03 — File Handling and Exception Handling — Pending
 * [ ] Module 2.5 — Practice Day 01 — Pending
 * [ ] Module 02 — Function Through the Lens of ML — Pending
-* [ ] Module 01 — Recap Through the Lens of ML — Pending
+* [ ] Module 01 — Recap Through the Lens of ML — 7 October 2026
 
 ---
 
