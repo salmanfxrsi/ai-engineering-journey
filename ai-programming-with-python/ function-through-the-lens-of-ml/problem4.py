@@ -11,3 +11,12 @@
 
 # Sample Output 2:
 # 125
+
+def power(base, exponent = 2):
+    result = 1
+    for i in range(0, exponent):
+        result *= base
+    return result
+
+output = power(5, 3)
+print(output)
