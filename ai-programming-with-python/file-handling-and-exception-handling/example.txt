@@ -1,0 +1,6 @@
+Python is an amazing programming language.
+Machine Learning helps computers learn from data.
+Artificial Intelligence is changing the world.
+Data Science uses data to discover insights.
+Salman is learning Python for AI Engineering.
+Python makes file handling easy.
