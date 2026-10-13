@@ -5,3 +5,16 @@
 
 # Sample Output:
 # [1, 4, 9, 16]
+
+input = [1, 2, 3, 4]
+
+squared_numbers = map(lambda n: n * n, input)
+output = list(squared_numbers)
+print(output)
+
+
+
+
+
+
+
