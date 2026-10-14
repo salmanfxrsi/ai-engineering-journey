@@ -1,0 +1,22 @@
+Hello! My name is Salman Farsi.
+I am learning Python programming.
+My goal is to become a great software engineer.
+
+Python is an amazing programming language.
+It is easy to learn and powerful.
+I enjoy solving coding problems.
+
+Topics I have learned:
+1. Variables and data types
+2. Conditional statements
+3. Loops
+4. Functions
+5. Lists and dictionaries
+6. Iterators and generators
+7. File handling
+
+Today, I am practicing file operations.
+I want to learn how to read, write and append text.
+Practice makes programming easier!
+
+Keep learning and never give up.
