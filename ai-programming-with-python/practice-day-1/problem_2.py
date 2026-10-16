@@ -10,7 +10,13 @@
 # [7, 8]
 
 # Implementation
-def batch_generator(numbers, batch_size):
-    yield 
 
-batch_generator([1, 2, 3, 4, 5, 6, 7, 8], 3)
+data = [1, 2, 3, 4, 5, 6, 7, 8]
+def batch_generator(numbers, batch_size):
+    for i in range(0, len(numbers), batch_size):
+        yield data[i : i + batch_size]
+
+g = batch_generator([1, 2, 3, 4, 5, 6, 7, 8], 3)
+print(next(g))
+print(next(g))
+print(next(g))
