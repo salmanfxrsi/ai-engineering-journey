@@ -1,0 +1,17 @@
+# Write a function introduce(name, age) that prints:
+
+# My name is <name> and I am <age> years old.
+ 
+# Call it using positional arguments.
+
+# Sample Input:
+# Rahim 28
+
+# Sample Output:
+# My name is Rahim and I am 28 years old.
+
+# Implementation
+def introduce(name, age): 
+    print(f"My name is {name} and I am {age} years old.")
+
+introduce("Rahim", 28)
