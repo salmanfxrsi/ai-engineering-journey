@@ -1,3 +1,21 @@
+# Write a program that converts a sentence into a list of words but only includes words that start with a vowel (a, e, i, o, u), ignoring case.
+
+# Input Format:
+
+# A single line sentence
+
+# OutputFormat:
+# A list of strings
+
+# Example:
+
+# Input:
+# An apple a day keeps the doctor away
+
+# Output:
+# ['An', 'apple', 'a', 'away']
+
+# Implementation
 sentence = input("write sentence here: ").split()
 output = []
 
