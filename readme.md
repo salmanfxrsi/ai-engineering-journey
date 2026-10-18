@@ -8,9 +8,17 @@ This repository contains my learning notes, code implementations, practice, expe
 
 ## 🐍 AI Programming With Python
 
+### 📅 Week 2
+
+* [ ] Module 09 — Python Mid Term Exam — Pending
+* [ ] Module 08 — Data Analysis with Pandas — Pending
+* [ ] Module 07 — Data Analysis with NumPy 2 — Pending
+* [ ] Module 06 — Data Analysis with NumPy — Pending
+* [ ] Module 05 — OOP — Pending
+
 ### 📅 Week 1
 
-* [x] Module 04 — Python Assignment 01 — October 2026 - Mark Pending
+* [x] Module 04 — Python Assignment 01 — 16 October 2026 - Mark Pending
 * [x] Module 3.5 — Practice Day 02 — 16 October 2026
 * [x] Module 03 — File Handling and Exception Handling — 15 October 2026
 * [x] Module 2.5 — Practice Day 01 — 14 October 2026
